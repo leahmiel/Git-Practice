@@ -4,5 +4,6 @@ body {
 h1{
     height: 200vh;
     font-size: 15rem;
-    background-color: orchid;
+
+    background-color: rgb(255, 245, 101);
 }
